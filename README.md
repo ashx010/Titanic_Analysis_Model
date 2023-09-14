@@ -1,6 +1,6 @@
 # Titanic_Analysis_Model
 
-Regression model on Titanic: Tragic shipwreck
+Classification model on Titanic: Tragic shipwreck
 
 ## Titanic Survival Prediction Project
 
